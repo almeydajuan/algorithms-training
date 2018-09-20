@@ -1,5 +1,6 @@
 package com.juanalmeyda.training
 
+// https://www.hackerrank.com/challenges/kangaroo
 fun main(args: Array<String>) {
     println(kangaroo(0, 3, 4, 2))
     println(kangaroo(0, 2, 5, 3))

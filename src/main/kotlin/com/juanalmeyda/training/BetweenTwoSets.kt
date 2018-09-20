@@ -2,6 +2,7 @@ package com.juanalmeyda.training
 
 import java.lang.RuntimeException
 
+// https://www.hackerrank.com/challenges/between-two-sets
 fun main(args: Array<String>) {
     println(getTotalX(arrayOf(2,4), arrayOf(16,32,96)))
 }
